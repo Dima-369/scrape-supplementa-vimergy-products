@@ -4,7 +4,7 @@ ships from Germany but I noticed how they are stores with more and cheaper
  available, so I usually use those:
 
 * [aggressivehealthshop.com](https://www.aggressivehealthshop.com/popular-brands-a-to-z/t-z-brands/vimergy.html) (from United Kingdom)
-* [morgenisnu.nl](https://morgenisnu.nl/merk/vimergy/) (from Netherlands)
+* [morgenisnu.nl](https://morgenisnu.nl/merk/vimergy/) (from Netherlands, free shipping to Germany on orders over 75€)
 
 When the script fails, it is usually because some product was taken out.
 
